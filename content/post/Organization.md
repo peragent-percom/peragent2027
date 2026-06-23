@@ -4,7 +4,7 @@ title: "Organization"
 subtitle: "The PerAgent 2027 Organization Team"
 excerpt: "Oranization"
 description: "The call for papers is out"
-date: 2026-06-30
+date: 2024-06-30
 author: "Dipanwita Thakur,  Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi"
 image: "img/goa.jpg"
 URL: "/organization"
