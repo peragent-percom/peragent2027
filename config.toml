@@ -108,26 +108,26 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "Call For Papers"
-  href =  "/2027/cfp/"
+  href =  "/peragent2027/cfp/"
   [[params.addtional_menus]]
   title =  "Organization"
-  href =  "/2027/organization/"
+  href =  "/peragent2027/organization/"
  [[params.addtional_menus]]
   title =  "Dates"
-  href =  "/2027/dates/"
+  href =  "/peragent2027/dates/"
   [[params.addtional_menus]]
   title =  "Program"
-  href =  "/2027/program/"
+  href =  "/peragent2027/program/"
   [[params.addtional_menus]]
   title =  "Accepted papers"
-  href =  "/2027/accepted/"
+  href =  "/peragent2027/accepted/"
   [[params.addtional_menus]]
   title =  "Previous Events"
-  href =  "/2027/previous/"
+  href =  "/peragent2027/previous/"
   
  # [[params.addtional_menus]]
  # title =  "Percom 2027"
- # href =  "/2027/about/"
+ # href =  "/peragent2027/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
