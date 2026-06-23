@@ -8,7 +8,7 @@ date: 2026-06-30
 author: "Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi
 "
 image: "img/goa.jpg"
-URL: "/cfp/"
+URL: "/cfp"
 ---
 
 # Call for Papers
