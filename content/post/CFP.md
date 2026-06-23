@@ -12,9 +12,7 @@ URL: "/cfp"
 ---
 
 # Call for Papers
-The **Pervasive Agentic Systems and Multimodal Foundation
-Models (PerAgent)** workshop focuses on the critical systems-level challenges of transitioning from narrow, singletask edge AI to general-purpose, autonomous AI agents operating in physical environments.
-Currently, foundation models are trapped in the cloud due to massive computational
+The **Pervasive Agentic Systems and Multimodal Foundation Models (PerAgent)** workshop focuses on the critical systems-level challenges of transitioning from narrow, singletask edge AI to general-purpose, autonomous AI agents operating in physical environments. Currently, foundation models are trapped in the cloud due to massive computational
 requirements. This workshop explores how large-scale models such as Large Language
 Models (LLMs), Vision-Language Models (VLMs), and Multimodal Language Models (MLMs)
 can be compressed, decentralized, and securely integrated with pervasive sensor networks. 
@@ -38,7 +36,7 @@ All submissions will undergo a peer-review process by Program Commitee members i
 
 All accepted papers will be published as part of the PerCom satellite events proceedings. Proceedings will be published by the IEEE and available online through IEEE Digital Library. 
 
-**Submission deadline: ~~November 17th 2025~~ <span class="red">December 7th, 2026</span>**
+**Submission deadline:<span class="red">December 7th, 2026</span>**
 <!--{.red}-->
 <!-- <div class="newsbox yellow"> To facilitate the workshop organization and the review process, we invite contributors to submit their abstract by <div><b>November 24th, 2026</b></div> </div> -->
 
