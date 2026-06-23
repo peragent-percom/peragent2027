@@ -105,13 +105,13 @@ home = ["HTML", "RSS", "Algolia"]
   # [[params.bookmark_link]]
   # title = "unsplash"
   # href = "https://unsplash.com"
-  
+
   [[params.addtional_menus]]
   title =  "Call For Papers"
-  href =  "/peragent2027/cfp/"
+  href =  "/cfp/"
   [[params.addtional_menus]]
   title =  "Organization"
-  href =  "/peragent2027/organization/"
+  href =  "/organization/"
  [[params.addtional_menus]]
   title =  "Dates"
   href =  "/peragent2027/dates/"
