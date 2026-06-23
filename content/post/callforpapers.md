@@ -10,3 +10,6 @@ author: "Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Y
 image: "img/goa.jpg"
 URL: "/callforpapers"
 ---
+# Program
+
+The workshop will be a full day workshop on the **8th of March 2027** 
