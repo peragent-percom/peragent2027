@@ -38,7 +38,7 @@ home = ["HTML", "RSS", "Algolia"]
   # Sidebar settings
    sidebar_about_description = "IEEE PerCom 2027 workshop, Goa (India), March 8 – 12, 2027, "
    sidebar_avatar = "img/percom.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
-   sidebar_url = "/peragent2027/about"
+   sidebar_url = "/peragent2027/about/"
 
   featured_tags = false 
   featured_condition_size = 1 
@@ -108,10 +108,10 @@ home = ["HTML", "RSS", "Algolia"]
 
   [[params.addtional_menus]]
   title =  "Call For Papers"
-  href =  "/cfp/"
+  href =  "/peragent2027/cfp/"
   [[params.addtional_menus]]
   title =  "Organization"
-  href =  "/organization/"
+  href =  "/peragent2027/organization/"
  [[params.addtional_menus]]
   title =  "Dates"
   href =  "/peragent2027/dates/"
