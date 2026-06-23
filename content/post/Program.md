@@ -4,7 +4,7 @@ title: "Program"
 subtitle: "Tentative Program for the Workshop"
 excerpt: "Program"
 description: "The program will be available here!"
-date: 2026-06-30
+date: 2024-06-30
 author: "Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi"
 image: "img/goa.jpg"
 URL: "/program"
