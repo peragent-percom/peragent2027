@@ -4,7 +4,7 @@ title: "Program"
 subtitle: "Tentative Program for the Workshop"
 excerpt: "Program"
 description: "The program will be available here!"
-date: 2024-06-30
+date: 2026-06-30
 author: "Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi"
 image: "img/goa.jpg"
 URL: "/program"
@@ -45,6 +45,7 @@ The workshop will be a full day workshop on the **8th of March 2027**
         background-color: #fff3b3;
     }
 </style>
+
 
 <table>
     <thead>
