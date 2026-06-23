@@ -4,9 +4,9 @@ title: "Accepted Papers"
 subtitle: "Check this year's accepted papers!"
 excerpt: "Accepted Papers"
 description: "The list of accepted papers will be available here!"
-date: 2024-06-16
-author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "img/pisa.jpg"
+date: 2024-06-30
+author: "Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi"
+image: "img/goa.jpg"
 URL: "/accepted"
 ---
 # Accepted Papers
