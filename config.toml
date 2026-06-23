@@ -108,7 +108,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [[params.addtional_menus]]
   title =  "Call For Papers"
-  href =  "/peragent2027/callforpapers/"
+  href =  "/peragent2027/cfp/"
   [[params.addtional_menus]]
   title =  "Organization"
   href =  "/peragent2027/organization/"
