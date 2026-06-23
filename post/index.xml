@@ -18,6 +18,15 @@ Authors Title Authors Title </description>
     </item>
     
     <item>
+      <title>Call for papers</title>
+      <link>https://peragent-percom.github.io/peragent2027/cfp/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://peragent-percom.github.io/peragent2027/cfp/</guid>
+      <description>Call for Papers The Pervasive Agentic Systems and Multimodal Foundation Models (PerAgent) workshop focuses on the critical systems-level challenges of transitioning from narrow, singletask edge AI to general-purpose, autonomous AI agents operating in physical environments. Currently, foundation models are trapped in the cloud due to massive computational requirements. This workshop explores how large-scale models such as Large Language Models (LLMs), Vision-Language Models (VLMs), and Multimodal Language Models (MLMs) can be compressed, decentralized, and securely integrated with pervasive sensor networks.</description>
+    </item>
+    
+    <item>
       <title>Dates</title>
       <link>https://peragent-percom.github.io/peragent2027/dates/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
