@@ -64,18 +64,14 @@ The workshop will be a full day workshop on the **8th of March 2027**
         <tr class="coffee-break"><td>10:30-11:00</td><td>Coffee Break</td><td></td></tr>
         <tr class="session-row"><td></td><td>Session 2: XXXXX</td><td>Chair: XXXXX</td></tr>
         <tr><td>11:00-11:20</td><td><em>Title</em></td><td>Authors</td></tr>
-        
-        
         <tr class="qa-row"><td>12:20-12:30</td><td>Joint Q&A</td><td></td></tr>
         <tr class="lunch-break"><td>12:30-14:00</td><td>Lunch Break</td><td></td></tr>
         <tr class="session-row"><td></td><td>Session 3: XXXXX</td><td>Chair: XXXX</td></tr>
         <tr><td>14:00-14:20</td><td><em>Title</em></td><td>Authors</td></tr>
-        
         <tr class="qa-row"><td>15:20-15:30</td><td>Joint Q&A</td><td></td></tr>
         <tr class="coffee-break"><td>15:30-16:00</td><td>Coffee Break</td><td></td></tr>
         <tr class="session-row"><td></td><td>Session 4: XXXX</td><td>Chair: XXXXX</td></tr>
         <tr><td>16:00-16:20</td><td><em>Title</em></td><td>Authors</td></tr>
-        
         <tr class="qa-row"><td>17:20-17:30</td><td>Joint Q&A</td><td></td></tr>
         <tr class="closing-row"><td>17:30-18:00</td><td>Closing</td><td>Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi</td></tr>
     </tbody>
